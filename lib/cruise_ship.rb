@@ -15,3 +15,4 @@ passengers.each do |suite, name|
 end
 
 winner# add the code snippet here!
+end
